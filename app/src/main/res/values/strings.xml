@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Material Login</string>
+    <string name="login_text"><u>Login</u></string>
+    <string name="signup_text"><u>Sign Up</u></string>
+</resources>
